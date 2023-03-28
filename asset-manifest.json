@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ncg-react/static/css/main.30f9aed9.css",
+    "main.js": "/ncg-react/static/js/main.7115ffbf.js",
+    "static/media/world.jpg": "/ncg-react/static/media/world.e8fc4692c26494ae2c99.jpg",
+    "index.html": "/ncg-react/index.html",
+    "main.30f9aed9.css.map": "/ncg-react/static/css/main.30f9aed9.css.map",
+    "main.7115ffbf.js.map": "/ncg-react/static/js/main.7115ffbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f9aed9.css",
+    "static/js/main.7115ffbf.js"
+  ]
+}
